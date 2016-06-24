@@ -22,7 +22,7 @@
 		},
 		{
 		    name:'alibaba',
-		    class:'com.taobao.module.alibaba'
+		    class:'com.taobao.module.AliBaBa'
 		}
 	]
 }
